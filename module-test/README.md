@@ -1,4 +1,6 @@
 To build:
-$ go mod vendor
-$ go build -mod=vendor
+
+`$ go mod vendor`
+
+`$ go build -mod=vendor`
 
